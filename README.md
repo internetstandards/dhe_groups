@@ -5,7 +5,7 @@ This repository contains .pem files for the following finite field groups for DH
 
 These can be used for configuration of your TLS software. The associated checksums are also published in the test explanation of the 'Key exchange parameters' subtest on Internet.nl. 
 
-The repository does not contain .pem files for `ffdhe2048` as it is 'Insufficient'. Besides, it does not contain .pem files for `ffdhe8192 and `ffdhe61441`, as these are rarely used because of performance loss.
+The repository does not contain .pem files for `ffdhe2048` as it is 'Insufficient'. Besides, it does not contain .pem files for `ffdhe8192` and `ffdhe61441`, as these are rarely used because of performance loss.
 
 ## Testing with Internet.nl
 With the [Internet.nl](https://internet.nl) test tool you can test if your web and mail server use these standardised finite field groups for DHE. 
