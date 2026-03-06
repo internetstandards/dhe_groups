@@ -11,9 +11,7 @@ The repository does not contain .pem files for `ffdhe2048` as it is 'Insufficien
 With the [Internet.nl](https://internet.nl) test tool you can test if your web and mail server use these standardised finite field groups for DHE. 
 
 ## NCSC-NL TLS Guidelines
-Internet.nl uses the ['Transport Layer Security (TLS), Security guidelines version 2025-05'](https://www.ncsc.nl/en/transport-layer-security-tls/security-guidelines-for-transport-layer-security-2025-05) from NCSC-NL as a baseline. NCSC-NL has assigned the following security levels to these groups (paragraph 3.3.3):
-
-### Security level of finite field groups for DHE
+Internet.nl uses the ['Transport Layer Security (TLS), Security guidelines version 2025-05'](https://www.ncsc.nl/en/transport-layer-security-tls/security-guidelines-for-transport-layer-security-2025-05) from NCSC-NL as a baseline. NCSC-NL has assigned the following **security levels** to these groups (paragraph 3.3.3):
 
 * Phase out:
 
